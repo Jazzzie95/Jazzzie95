@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rashi!
 - 👀 I’m interested in Particle Physics and Data Analysis
 - 🌱 I’m currently learning Root and C++
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? email me at rashi.shr.131595@gmail.com
 
 <!---
